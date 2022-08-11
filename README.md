@@ -3,7 +3,9 @@
 > Provides Automatic Enumeration as well as Manual Enumeration
 
 # How to use
-`bash ComputerInfo.sh`
+```
+bash ComputerInfo.sh
+```
 
 - Then you can select your options for Auto or Manual enumerations.
 
