@@ -1,6 +1,6 @@
 # Computer-Information
-> Bash tool to display computer information
-> Provides Automatic Enumeration as well as Manual Enumeration
+- Bash tool to display computer information
+- Provides Automatic Enumeration as well as Manual Enumeration
 
 # How to use
 ```
